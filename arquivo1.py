@@ -1,1 +1,5 @@
-f = open('receita-bolo-cenoura.txt', 'r')
+'''
+Codigo teste Github
+'''
+import os
+f = os.walk('receita-bolo-cenoura.txt', 'r')
